@@ -1,0 +1,7 @@
+#!/bin/sh
+
+for dir in commands/*; do
+  echo 'looking fro' $dir
+done
+
+
