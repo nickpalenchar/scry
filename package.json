@@ -1,0 +1,12 @@
+{
+  "name": "scry",
+  "packageManager": "yarn@3.1.0",
+  "version": "0.0.1",
+  "dependencies": {
+    "commander": "^8.3.0",
+    "yarn": "2.4.3"
+  },
+  "bin": {
+    "scry": "./bin/scry.js"
+  }
+}
